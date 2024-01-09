@@ -1,0 +1,1 @@
+JobSeeker - instrument for vacancies scraping from websites. Using BeautifulSoup, this application allow user extract and analyze vacancies information. Supports data loading from different sources. Easy for using and with open source.
